@@ -4,7 +4,7 @@ public class Students {
     private int id;
     private int imageID;
     private String name;
-//private.
+//private
 
     public Students(int id, String name, int imageID) {
         this.id = id;
